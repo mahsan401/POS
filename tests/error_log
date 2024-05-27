@@ -1,0 +1,4 @@
+[27-Nov-2020 19:27:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/dstadve1/public_html/erp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/tests/TestCase.php on line 7

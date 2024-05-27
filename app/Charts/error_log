@@ -1,0 +1,4 @@
+[27-Nov-2020 19:27:28 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'ConsoleTVs\Charts\Classes\Highcharts\Chart' not found in /home/dstadve1/public_html/erp/app/Charts/CommonChart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Charts/CommonChart.php on line 7

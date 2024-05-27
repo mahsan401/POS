@@ -1,0 +1,30 @@
+[18-Sep-2020 20:51:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/dstadve1/public_html/erp/routes/install_r.php:12
+Stack trace:
+#0 /home/dstadve1/public_html/erp/routes/web.php(14): include_once()
+#1 {main}
+  thrown in /home/dstadve1/public_html/erp/routes/install_r.php on line 12
+[27-Nov-2020 19:26:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/dstadve1/public_html/erp/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/routes/api.php on line 16
+[27-Nov-2020 19:26:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/dstadve1/public_html/erp/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/routes/channels.php on line 14
+[27-Nov-2020 19:26:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/dstadve1/public_html/erp/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/routes/console.php on line 16
+[27-Nov-2020 19:26:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/dstadve1/public_html/erp/routes/install_r.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/routes/install_r.php on line 12
+[27-Nov-2020 19:26:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/dstadve1/public_html/erp/routes/install_r.php:12
+Stack trace:
+#0 /home/dstadve1/public_html/erp/routes/web.php(14): include_once()
+#1 {main}
+  thrown in /home/dstadve1/public_html/erp/routes/install_r.php on line 12
+[24-Jan-2021 02:05:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/dstadve1/public_html/erp/routes/install_r.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/routes/install_r.php on line 12

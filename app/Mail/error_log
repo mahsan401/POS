@@ -1,0 +1,4 @@
+[27-Nov-2020 19:27:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/dstadve1/public_html/erp/app/Mail/ExceptionOccured.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Mail/ExceptionOccured.php on line 10

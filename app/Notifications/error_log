@@ -1,0 +1,20 @@
+[27-Nov-2020 19:27:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/app/Notifications/CustomerNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Notifications/CustomerNotification.php on line 10
+[27-Nov-2020 19:27:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/app/Notifications/RecurringExpenseNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Notifications/RecurringExpenseNotification.php on line 10
+[27-Nov-2020 19:27:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/app/Notifications/RecurringInvoiceNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Notifications/RecurringInvoiceNotification.php on line 10
+[27-Nov-2020 19:27:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/app/Notifications/SupplierNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Notifications/SupplierNotification.php on line 11
+[27-Nov-2020 19:27:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/app/Notifications/TestEmailNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Notifications/TestEmailNotification.php on line 10

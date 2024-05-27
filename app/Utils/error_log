@@ -1,0 +1,40 @@
+[27-Nov-2020 19:27:41 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/AccountTransactionUtil.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/AccountTransactionUtil.php on line 8
+[27-Nov-2020 19:27:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/BusinessUtil.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/BusinessUtil.php on line 20
+[27-Nov-2020 19:27:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/CashRegisterUtil.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/CashRegisterUtil.php on line 11
+[27-Nov-2020 19:27:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/ContactUtil.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/ContactUtil.php on line 10
+[27-Nov-2020 19:27:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/InstallUtil.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/InstallUtil.php on line 15
+[27-Nov-2020 19:27:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/ModuleUtil.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/ModuleUtil.php on line 14
+[27-Nov-2020 19:27:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/NotificationUtil.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/NotificationUtil.php on line 19
+[27-Nov-2020 19:27:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/ProductUtil.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/ProductUtil.php on line 25
+[27-Nov-2020 19:27:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/TaxUtil.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/TaxUtil.php on line 8
+[27-Nov-2020 19:27:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/dstadve1/public_html/erp/app/Utils/TransactionUtil.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Utils/TransactionUtil.php on line 29

@@ -1,0 +1,236 @@
+[10-Nov-2020 16:20:46 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/dstadve1/public_html/erp/app/Contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Contact.php on line 11
+[27-Nov-2020 19:26:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Account.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Account.php on line 10
+[27-Nov-2020 19:26:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/AccountTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/AccountTransaction.php on line 9
+[27-Nov-2020 19:26:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/AccountType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/AccountType.php on line 7
+[27-Nov-2020 19:26:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Barcode.php on line 7
+[27-Nov-2020 19:26:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Brands.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Brands.php on line 8
+[27-Nov-2020 19:26:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Business.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Business.php on line 7
+[27-Nov-2020 19:26:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/BusinessLocation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/BusinessLocation.php on line 10
+[27-Nov-2020 19:26:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/CashRegister.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/CashRegister.php on line 7
+[27-Nov-2020 19:26:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/CashRegisterTransaction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/CashRegisterTransaction.php on line 7
+[27-Nov-2020 19:26:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Category.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Category.php on line 9
+[27-Nov-2020 19:26:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/dstadve1/public_html/erp/app/Contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Contact.php on line 11
+[27-Nov-2020 19:26:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Currency.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Currency.php on line 7
+[27-Nov-2020 19:26:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/CustomerGroup.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/CustomerGroup.php on line 7
+[27-Nov-2020 19:26:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/DashboardConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/DashboardConfiguration.php on line 7
+[27-Nov-2020 19:26:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Discount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Discount.php on line 7
+[27-Nov-2020 19:26:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/DocumentAndNote.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/DocumentAndNote.php on line 8
+[27-Nov-2020 19:26:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/ExpenseCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/ExpenseCategory.php on line 8
+[27-Nov-2020 19:26:10 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/GroupSubTax.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/GroupSubTax.php on line 7
+[27-Nov-2020 19:26:10 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/InvoiceLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/InvoiceLayout.php on line 7
+[27-Nov-2020 19:26:10 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/InvoiceScheme.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/InvoiceScheme.php on line 7
+[27-Nov-2020 19:26:11 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Media.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Media.php on line 8
+[27-Nov-2020 19:26:11 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/NotificationTemplate.php on line 7
+[27-Nov-2020 19:26:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/PaymentAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/PaymentAccount.php on line 8
+[27-Nov-2020 19:26:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Printer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Printer.php on line 7
+[27-Nov-2020 19:26:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Product.php on line 7
+[27-Nov-2020 19:26:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/ProductRack.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/ProductRack.php on line 7
+[27-Nov-2020 19:26:13 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/ProductVariation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/ProductVariation.php on line 7
+[27-Nov-2020 19:26:13 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/PurchaseLine.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/PurchaseLine.php on line 7
+[27-Nov-2020 19:26:13 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/ReferenceCount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/ReferenceCount.php on line 7
+[27-Nov-2020 19:26:14 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/SellingPriceGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/SellingPriceGroup.php on line 8
+[27-Nov-2020 19:26:14 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/StockAdjustmentLine.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/StockAdjustmentLine.php on line 7
+[27-Nov-2020 19:26:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/System.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/System.php on line 7
+[27-Nov-2020 19:26:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/TaxRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/TaxRate.php on line 8
+[27-Nov-2020 19:26:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Transaction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Transaction.php on line 7
+[27-Nov-2020 19:26:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/TransactionPayment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/TransactionPayment.php on line 7
+[27-Nov-2020 19:26:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/TransactionSellLine.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/TransactionSellLine.php on line 7
+[27-Nov-2020 19:26:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/TransactionSellLinesPurchaseLines.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/TransactionSellLinesPurchaseLines.php on line 7
+[27-Nov-2020 19:26:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/TypesOfService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/TypesOfService.php on line 7
+[27-Nov-2020 19:26:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Unit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Unit.php on line 9
+[27-Nov-2020 19:26:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/dstadve1/public_html/erp/app/User.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/User.php on line 14
+[27-Nov-2020 19:26:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/UserContactAccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/UserContactAccess.php on line 7
+[27-Nov-2020 19:26:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Variation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Variation.php on line 8
+[27-Nov-2020 19:26:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/VariationGroupPrice.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/VariationGroupPrice.php on line 7
+[27-Nov-2020 19:26:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/VariationLocationDetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/VariationLocationDetails.php on line 7
+[27-Nov-2020 19:26:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/VariationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/VariationTemplate.php on line 7
+[27-Nov-2020 19:26:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/VariationValueTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/VariationValueTemplate.php on line 7
+[27-Nov-2020 19:26:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Warranty.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Warranty.php on line 7
+[27-Nov-2020 19:58:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/ReferenceCount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/ReferenceCount.php on line 7
+[27-Nov-2020 19:58:32 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/ProductVariation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/ProductVariation.php on line 7
+[27-Nov-2020 19:59:02 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/TransactionPayment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/TransactionPayment.php on line 7
+[27-Nov-2020 19:59:31 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/CashRegisterTransaction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/CashRegisterTransaction.php on line 7
+[27-Nov-2020 20:00:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Account.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Account.php on line 10
+[27-Nov-2020 20:00:57 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/AccountTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/AccountTransaction.php on line 9
+[27-Nov-2020 20:12:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/CashRegisterTransaction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/CashRegisterTransaction.php on line 7
+[27-Nov-2020 20:14:49 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/BusinessLocation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/BusinessLocation.php on line 10
+[27-Nov-2020 20:14:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/AccountTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/AccountTransaction.php on line 9
+[27-Nov-2020 20:14:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/AccountTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/AccountTransaction.php on line 9
+[24-Jan-2021 02:13:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/DashboardConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/DashboardConfiguration.php on line 7

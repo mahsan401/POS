@@ -1,0 +1,8 @@
+[27-Nov-2020 19:27:48 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/dstadve1/public_html/erp/database/factories/ModelFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/factories/ModelFactory.php on line 17
+[29-Jan-2021 16:44:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/dstadve1/public_html/erp/database/factories/ModelFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/factories/ModelFactory.php on line 17

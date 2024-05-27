@@ -1,0 +1,4 @@
+[27-Nov-2020 19:32:01 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Providers/SuperadminServiceProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Providers/SuperadminServiceProvider.php on line 13

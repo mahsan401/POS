@@ -1,0 +1,16 @@
+[27-Nov-2020 19:48:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Nov-2020 19:48:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/LoginController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/LoginController.php on line 11
+[27-Nov-2020 19:48:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/RegisterController.php on line 11
+[27-Nov-2020 19:48:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Auth/ResetPasswordController.php on line 8

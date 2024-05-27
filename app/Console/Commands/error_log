@@ -1,0 +1,32 @@
+[27-Nov-2020 19:32:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/CreateDummyBusiness.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/CreateDummyBusiness.php on line 12
+[27-Nov-2020 19:32:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/MapPurchaseSell.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/MapPurchaseSell.php on line 15
+[27-Nov-2020 19:32:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php on line 12
+[27-Nov-2020 19:32:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringInvoice.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringInvoice.php on line 16
+[27-Nov-2020 19:32:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/UpdateRewardPoints.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/UpdateRewardPoints.php on line 15
+[27-Nov-2020 20:15:06 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php on line 12
+[27-Nov-2020 20:15:08 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php on line 12
+[27-Nov-2020 20:15:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Console/Commands/RecurringExpense.php on line 12

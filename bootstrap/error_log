@@ -1,0 +1,4 @@
+[27-Nov-2020 19:26:19 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/dstadve1/public_html/erp/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/bootstrap/app.php on line 14

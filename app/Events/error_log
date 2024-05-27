@@ -1,0 +1,3 @@
+[27-Nov-2020 19:27:31 Asia/Singapore] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/dstadve1/public_html/erp/app/Events/TransactionPaymentAdded.php on line 8
+[27-Nov-2020 19:27:31 Asia/Singapore] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/dstadve1/public_html/erp/app/Events/TransactionPaymentDeleted.php on line 7
+[27-Nov-2020 19:27:31 Asia/Singapore] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/dstadve1/public_html/erp/app/Events/TransactionPaymentUpdated.php on line 9

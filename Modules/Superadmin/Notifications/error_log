@@ -1,0 +1,28 @@
+[27-Nov-2020 19:31:57 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/NewBusinessNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/NewBusinessNotification.php on line 9
+[27-Nov-2020 19:31:58 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/NewBusinessWelcomNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/NewBusinessWelcomNotification.php on line 9
+[27-Nov-2020 19:31:58 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/NewSubscriptionNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/NewSubscriptionNotification.php on line 9
+[27-Nov-2020 19:31:58 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/PasswordUpdateNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/PasswordUpdateNotification.php on line 9
+[27-Nov-2020 19:31:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/SendSubscriptionExpiryAlert.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/SendSubscriptionExpiryAlert.php on line 11
+[27-Nov-2020 19:31:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/SubscriptionOfflinePaymentActivationConfirmation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/SubscriptionOfflinePaymentActivationConfirmation.php on line 9
+[27-Nov-2020 19:31:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/SuperadminCommunicator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Notifications/SuperadminCommunicator.php on line 10

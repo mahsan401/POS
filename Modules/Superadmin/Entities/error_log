@@ -1,0 +1,16 @@
+[27-Nov-2020 19:31:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/Package.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/Package.php on line 8
+[27-Nov-2020 19:31:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/Subscription.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/Subscription.php on line 10
+[27-Nov-2020 19:31:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/SuperadminCommunicatorLog.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/SuperadminCommunicatorLog.php on line 7
+[27-Nov-2020 19:31:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/SuperadminFrontendPage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Entities/SuperadminFrontendPage.php on line 7

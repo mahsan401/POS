@@ -1,0 +1,972 @@
+[27-Nov-2020 19:13:38 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_06_174904_add_change_return_label_column_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_06_174904_add_change_return_label_column_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:27:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[27-Nov-2020 19:27:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[27-Nov-2020 19:27:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_071953_create_currencies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_071953_create_currencies_table.php on line 7
+[27-Nov-2020 19:27:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_073658_create_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_073658_create_business_table.php on line 7
+[27-Nov-2020 19:27:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_22_075923_add_business_id_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_22_075923_add_business_id_users_table.php on line 7
+[27-Nov-2020 19:27:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_23_113209_create_brands_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_23_113209_create_brands_table.php on line 7
+[27-Nov-2020 19:27:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_26_083429_create_permission_tables.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_26_083429_create_permission_tables.php on line 6
+[27-Nov-2020 19:27:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_26_110000_create_tax_rates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_26_110000_create_tax_rates_table.php on line 7
+[27-Nov-2020 19:27:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_26_122313_create_units_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_26_122313_create_units_table.php on line 7
+[27-Nov-2020 19:27:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_27_075706_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_27_075706_create_contacts_table.php on line 7
+[27-Nov-2020 19:27:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_04_071038_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_04_071038_create_categories_table.php on line 7
+[27-Nov-2020 19:27:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_08_115903_create_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_08_115903_create_products_table.php on line 7
+[27-Nov-2020 19:27:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_09_061616_create_variation_templates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_09_061616_create_variation_templates_table.php on line 7
+[27-Nov-2020 19:27:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_09_061638_create_variation_value_templates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_09_061638_create_variation_value_templates_table.php on line 7
+[27-Nov-2020 19:27:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_10_061146_create_product_variations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_10_061146_create_product_variations_table.php on line 7
+[27-Nov-2020 19:27:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_10_061216_create_variations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_10_061216_create_variations_table.php on line 7
+[27-Nov-2020 19:27:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_19_054827_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_19_054827_create_transactions_table.php on line 7
+[27-Nov-2020 19:27:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_08_31_073533_create_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_08_31_073533_create_purchase_lines_table.php on line 7
+[27-Nov-2020 19:27:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_10_15_064638_create_transaction_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_10_15_064638_create_transaction_payments_table.php on line 7
+[27-Nov-2020 19:27:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_10_31_065621_add_default_sales_tax_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_10_31_065621_add_default_sales_tax_to_business_table.php on line 7
+[27-Nov-2020 19:27:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_11_20_051930_create_table_group_sub_taxes.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_11_20_051930_create_table_group_sub_taxes.php on line 7
+[27-Nov-2020 19:27:57 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_11_20_063603_create_transaction_sell_lines.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_11_20_063603_create_transaction_sell_lines.php on line 7
+[27-Nov-2020 19:27:57 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_11_21_064540_create_barcodes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_11_21_064540_create_barcodes_table.php on line 7
+[27-Nov-2020 19:27:57 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_11_23_181237_create_invoice_schemes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_11_23_181237_create_invoice_schemes_table.php on line 7
+[27-Nov-2020 19:27:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_12_25_122822_create_business_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_12_25_122822_create_business_locations_table.php on line 7
+[27-Nov-2020 19:27:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_12_25_160253_add_location_id_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_12_25_160253_add_location_id_to_transactions_table.php on line 7
+[27-Nov-2020 19:27:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_12_25_163227_create_variation_location_details_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_12_25_163227_create_variation_location_details_table.php on line 7
+[27-Nov-2020 19:27:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_04_115627_create_sessions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_04_115627_create_sessions_table.php on line 7
+[27-Nov-2020 19:28:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_05_112817_create_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_05_112817_create_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_06_112303_add_invoice_scheme_id_and_invoice_layout_id_to_business_locations.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_06_112303_add_invoice_scheme_id_and_invoice_layout_id_to_business_locations.php on line 7
+[27-Nov-2020 19:28:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_08_104124_create_expense_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_08_104124_create_expense_categories_table.php on line 7
+[27-Nov-2020 19:28:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_08_123327_modify_transactions_table_for_expenses.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_08_123327_modify_transactions_table_for_expenses.php on line 8
+[27-Nov-2020 19:28:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_09_111005_modify_payment_status_in_transactions_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_09_111005_modify_payment_status_in_transactions_table.php on line 8
+[27-Nov-2020 19:28:01 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_09_111109_add_paid_on_column_to_transaction_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_09_111109_add_paid_on_column_to_transaction_payments_table.php on line 7
+[27-Nov-2020 19:28:01 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_25_172439_add_printer_related_fields_to_business_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_25_172439_add_printer_related_fields_to_business_locations_table.php on line 7
+[27-Nov-2020 19:28:01 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_27_184322_create_printers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_27_184322_create_printers_table.php on line 7
+[27-Nov-2020 19:28:01 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_30_181442_create_cash_registers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_30_181442_create_cash_registers_table.php on line 7
+[27-Nov-2020 19:28:02 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_01_31_125836_create_cash_register_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_01_31_125836_create_cash_register_transactions_table.php on line 7
+[27-Nov-2020 19:28:02 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_07_173326_modify_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_07_173326_modify_business_table.php on line 7
+[27-Nov-2020 19:28:02 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_105425_add_enable_product_expiry_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_105425_add_enable_product_expiry_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:02 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_111027_add_expiry_period_and_expiry_period_type_columns_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_111027_add_expiry_period_and_expiry_period_type_columns_to_products_table.php on line 7
+[27-Nov-2020 19:28:02 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_131118_add_mfg_date_and_exp_date_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_131118_add_mfg_date_and_exp_date_purchase_lines_table.php on line 7
+[27-Nov-2020 19:28:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_155348_add_exchange_rate_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_08_155348_add_exchange_rate_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_09_124945_modify_transaction_payments_table_for_contact_payments.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_09_124945_modify_transaction_payments_table_for_contact_payments.php on line 7
+[27-Nov-2020 19:28:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_12_113640_create_transaction_sell_lines_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_12_113640_create_transaction_sell_lines_purchase_lines_table.php on line 7
+[27-Nov-2020 19:28:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_12_114605_add_quantity_sold_in_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_12_114605_add_quantity_sold_in_purchase_lines_table.php on line 7
+[27-Nov-2020 19:28:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_13_183323_alter_decimal_fields_size.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_13_183323_alter_decimal_fields_size.php on line 6
+[27-Nov-2020 19:28:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_14_161928_add_transaction_edit_days_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_14_161928_add_transaction_edit_days_to_business_table.php on line 7
+[27-Nov-2020 19:28:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_15_161032_add_document_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_15_161032_add_document_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_17_124709_add_more_options_to_invoice_layouts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_17_124709_add_more_options_to_invoice_layouts.php on line 7
+[27-Nov-2020 19:28:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_19_111517_add_keyboard_shortcut_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_19_111517_add_keyboard_shortcut_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_19_121537_stock_adjustment_move_to_transaction_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_19_121537_stock_adjustment_move_to_transaction_table.php on line 8
+[27-Nov-2020 19:28:05 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_20_165505_add_is_direct_sale_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_20_165505_add_is_direct_sale_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:06 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_21_105329_create_system_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_21_105329_create_system_table.php on line 8
+[27-Nov-2020 19:28:06 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_23_100549_version_1_2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_23_100549_version_1_2.php on line 8
+[27-Nov-2020 19:28:06 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_23_125648_add_enable_editing_sp_from_purchase_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_23_125648_add_enable_editing_sp_from_purchase_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_26_103612_add_sales_commission_agent_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_26_103612_add_sales_commission_agent_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_26_130519_modify_users_table_for_sales_cmmsn_agnt.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_26_130519_modify_users_table_for_sales_cmmsn_agnt.php on line 8
+[27-Nov-2020 19:28:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_26_134500_add_commission_agent_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_26_134500_add_commission_agent_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_27_121422_add_item_addition_method_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_27_121422_add_item_addition_method_to_business_table.php on line 7
+[27-Nov-2020 19:28:07 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_02_27_170232_modify_transactions_table_for_stock_transfer.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_02_27_170232_modify_transactions_table_for_stock_transfer.php on line 8
+[27-Nov-2020 19:28:08 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_05_153510_add_enable_inline_tax_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_05_153510_add_enable_inline_tax_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:08 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_06_210206_modify_product_barcode_types.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_06_210206_modify_product_barcode_types.php on line 8
+[27-Nov-2020 19:28:08 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_13_181541_add_expiry_type_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_13_181541_add_expiry_type_to_business_table.php on line 7
+[27-Nov-2020 19:28:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_16_113446_product_expiry_setting_for_business.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_16_113446_product_expiry_setting_for_business.php on line 7
+[27-Nov-2020 19:28:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_19_113601_add_business_settings_options.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_19_113601_add_business_settings_options.php on line 7
+[27-Nov-2020 19:28:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_26_125334_add_pos_settings_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_26_125334_add_pos_settings_to_business_table.php on line 7
+[27-Nov-2020 19:28:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_26_165350_create_customer_groups_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_26_165350_create_customer_groups_table.php on line 7
+[27-Nov-2020 19:28:10 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_27_122720_customer_group_related_changes_in_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_27_122720_customer_group_related_changes_in_tables.php on line 7
+[27-Nov-2020 19:28:10 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_29_110138_change_tax_field_to_nullable_in_business_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_29_110138_change_tax_field_to_nullable_in_business_table.php on line 8
+[27-Nov-2020 19:28:10 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_29_115502_add_changes_for_sr_number_in_products_and_sale_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_29_115502_add_changes_for_sr_number_in_products_and_sale_lines_table.php on line 7
+[27-Nov-2020 19:28:11 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_29_134340_add_inline_discount_fields_in_purchase_lines.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_29_134340_add_inline_discount_fields_in_purchase_lines.php on line 7
+[27-Nov-2020 19:28:11 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_03_31_140921_update_transactions_table_exchange_rate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_03_31_140921_update_transactions_table_exchange_rate.php on line 7
+[27-Nov-2020 19:28:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_03_103037_add_contact_id_to_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_03_103037_add_contact_id_to_contacts_table.php on line 7
+[27-Nov-2020 19:28:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_03_122709_add_changes_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_03_122709_add_changes_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_09_135320_change_exchage_rate_size_in_business_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_09_135320_change_exchage_rate_size_in_business_table.php on line 8
+[27-Nov-2020 19:28:12 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_17_123122_add_lot_number_to_business.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_17_123122_add_lot_number_to_business.php on line 7
+[27-Nov-2020 19:28:13 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_17_160845_add_product_racks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_17_160845_add_product_racks_table.php on line 7
+[27-Nov-2020 19:28:14 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_20_182015_create_res_tables_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_20_182015_create_res_tables_table.php on line 7
+[27-Nov-2020 19:28:14 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_24_105246_restaurant_fields_in_transaction_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_24_105246_restaurant_fields_in_transaction_table.php on line 7
+[27-Nov-2020 19:28:14 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_24_114149_add_enabled_modules_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_24_114149_add_enabled_modules_business_table.php on line 7
+[27-Nov-2020 19:28:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_24_133704_add_modules_fields_in_invoice_layout_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_24_133704_add_modules_fields_in_invoice_layout_table.php on line 7
+[27-Nov-2020 19:28:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_04_27_132653_quotation_related_change.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_04_27_132653_quotation_related_change.php on line 7
+[27-Nov-2020 19:28:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_02_104439_add_date_format_and_time_format_to_business.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_02_104439_add_date_format_and_time_format_to_business.php on line 7
+[27-Nov-2020 19:28:15 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_02_111939_add_sell_return_to_transaction_payments.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_02_111939_add_sell_return_to_transaction_payments.php on line 7
+[27-Nov-2020 19:28:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_14_114027_add_rows_positions_for_products.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_14_114027_add_rows_positions_for_products.php on line 7
+[27-Nov-2020 19:28:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_14_125223_add_weight_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_14_125223_add_weight_to_products_table.php on line 7
+[27-Nov-2020 19:28:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_14_164754_add_opening_stock_permission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_14_164754_add_opening_stock_permission.php on line 8
+[27-Nov-2020 19:28:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_15_134729_add_design_to_invoice_layouts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_15_134729_add_design_to_invoice_layouts.php on line 7
+[27-Nov-2020 19:28:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_16_183307_add_tax_fields_invoice_layout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_16_183307_add_tax_fields_invoice_layout.php on line 7
+[27-Nov-2020 19:28:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_18_191956_add_sell_return_to_transaction_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_18_191956_add_sell_return_to_transaction_table.php on line 7
+[27-Nov-2020 19:28:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_21_131349_add_custom_fileds_to_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_21_131349_add_custom_fileds_to_contacts_table.php on line 7
+[27-Nov-2020 19:28:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_21_131607_invoice_layout_fields_for_sell_return.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_21_131607_invoice_layout_fields_for_sell_return.php on line 7
+[27-Nov-2020 19:28:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_21_131949_add_custom_fileds_and_website_to_business_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_21_131949_add_custom_fileds_and_website_to_business_locations_table.php on line 7
+[27-Nov-2020 19:28:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_22_123527_create_reference_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_22_123527_create_reference_counts_table.php on line 7
+[27-Nov-2020 19:28:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_22_154540_add_ref_no_prefixes_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_22_154540_add_ref_no_prefixes_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_24_132620_add_ref_no_column_to_transaction_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_24_132620_add_ref_no_column_to_transaction_payments_table.php on line 7
+[27-Nov-2020 19:28:19 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_24_161026_add_location_id_column_to_business_location_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_24_161026_add_location_id_column_to_business_location_table.php on line 7
+[27-Nov-2020 19:28:19 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_25_180603_create_modifiers_related_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_25_180603_create_modifiers_related_table.php on line 7
+[27-Nov-2020 19:28:19 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_29_121714_add_purchase_line_id_to_stock_adjustment_line_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_29_121714_add_purchase_line_id_to_stock_adjustment_line_table.php on line 7
+[27-Nov-2020 19:28:19 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_05_31_114645_add_res_order_status_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_05_31_114645_add_res_order_status_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:19 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_05_103530_rename_purchase_line_id_in_stock_adjustment_lines_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_05_103530_rename_purchase_line_id_in_stock_adjustment_lines_table.php on line 8
+[27-Nov-2020 19:28:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_05_111905_modify_products_table_for_modifiers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_05_111905_modify_products_table_for_modifiers.php on line 8
+[27-Nov-2020 19:28:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_06_110524_add_parent_sell_line_id_column_to_transaction_sell_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_06_110524_add_parent_sell_line_id_column_to_transaction_sell_lines_table.php on line 7
+[27-Nov-2020 19:28:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_07_152443_add_is_service_staff_to_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_07_152443_add_is_service_staff_to_roles_table.php on line 7
+[27-Nov-2020 19:28:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_07_182258_add_image_field_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_07_182258_add_image_field_to_products_table.php on line 7
+[27-Nov-2020 19:28:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_13_133705_create_bookings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_13_133705_create_bookings_table.php on line 8
+[27-Nov-2020 19:28:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_15_173636_add_email_column_to_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_15_173636_add_email_column_to_contacts_table.php on line 7
+[27-Nov-2020 19:28:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_06_27_182835_add_superadmin_related_fields_business.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_06_27_182835_add_superadmin_related_fields_business.php on line 8
+[27-Nov-2020 19:28:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_10_101913_add_custom_fields_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_10_101913_add_custom_fields_to_products_table.php on line 7
+[27-Nov-2020 19:28:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_17_103434_add_sales_person_name_label_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_17_103434_add_sales_person_name_label_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_17_163920_add_theme_skin_color_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_17_163920_add_theme_skin_color_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_24_160319_add_lot_no_line_id_to_transaction_sell_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_24_160319_add_lot_no_line_id_to_transaction_sell_lines_table.php on line 7
+[27-Nov-2020 19:28:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_25_110004_add_show_expiry_and_show_lot_colums_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_25_110004_add_show_expiry_and_show_lot_colums_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_25_172004_add_discount_columns_to_transaction_sell_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_25_172004_add_discount_columns_to_transaction_sell_lines_table.php on line 7
+[27-Nov-2020 19:28:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_26_124720_change_design_column_type_in_invoice_layouts_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_26_124720_change_design_column_type_in_invoice_layouts_table.php on line 8
+[27-Nov-2020 19:28:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_26_170424_add_unit_price_before_discount_column_to_transaction_sell_line_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_26_170424_add_unit_price_before_discount_column_to_transaction_sell_line_table.php on line 8
+[27-Nov-2020 19:28:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_07_28_103614_add_credit_limit_column_to_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_07_28_103614_add_credit_limit_column_to_contacts_table.php on line 7
+[27-Nov-2020 19:28:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_08_08_110755_add_new_payment_methods_to_transaction_payments_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_08_08_110755_add_new_payment_methods_to_transaction_payments_table.php on line 8
+[27-Nov-2020 19:28:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_08_08_122225_modify_cash_register_transactions_table_for_new_payment_methods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_08_08_122225_modify_cash_register_transactions_table_for_new_payment_methods.php on line 8
+[27-Nov-2020 19:28:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_08_14_104036_add_opening_balance_type_to_transactions_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_08_14_104036_add_opening_balance_type_to_transactions_table.php on line 8
+[27-Nov-2020 19:28:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_04_155900_create_accounts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_04_155900_create_accounts_table.php on line 7
+[27-Nov-2020 19:28:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_06_114438_create_selling_price_groups_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_06_114438_create_selling_price_groups_table.php on line 7
+[27-Nov-2020 19:28:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_06_154057_create_variation_group_prices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_06_154057_create_variation_group_prices_table.php on line 7
+[27-Nov-2020 19:28:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_07_102413_add_permission_to_access_default_selling_price.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_07_102413_add_permission_to_access_default_selling_price.php on line 9
+[27-Nov-2020 19:28:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_07_134858_add_selling_price_group_id_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_07_134858_add_selling_price_group_id_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_10_112448_update_product_type_to_single_if_null_in_products_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_10_112448_update_product_type_to_single_if_null_in_products_table.php on line 8
+[27-Nov-2020 19:28:27 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_10_152703_create_account_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_10_152703_create_account_transactions_table.php on line 7
+[27-Nov-2020 19:28:27 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_10_173656_add_account_id_column_to_transaction_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_10_173656_add_account_id_column_to_transaction_payments_table.php on line 7
+[27-Nov-2020 19:28:27 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_19_123914_create_notification_templates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_19_123914_create_notification_templates_table.php on line 7
+[27-Nov-2020 19:28:28 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_22_110504_add_sms_and_email_settings_columns_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_22_110504_add_sms_and_email_settings_columns_to_business_table.php on line 7
+[27-Nov-2020 19:28:28 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_24_134942_add_lot_no_line_id_to_stock_adjustment_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_24_134942_add_lot_no_line_id_to_stock_adjustment_lines_table.php on line 7
+[27-Nov-2020 19:28:28 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_26_105557_add_transaction_payments_for_existing_expenses.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_26_105557_add_transaction_payments_for_existing_expenses.php on line 8
+[27-Nov-2020 19:28:28 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_27_111609_modify_transactions_table_for_purchase_return.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_27_111609_modify_transactions_table_for_purchase_return.php on line 8
+[27-Nov-2020 19:28:28 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_09_27_131154_add_quantity_returned_column_to_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_09_27_131154_add_quantity_returned_column_to_purchase_lines_table.php on line 7
+[27-Nov-2020 19:28:29 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_02_131401_add_return_quantity_column_to_transaction_sell_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_02_131401_add_return_quantity_column_to_transaction_sell_lines_table.php on line 7
+[27-Nov-2020 19:28:29 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_03_104918_add_qty_returned_column_to_transaction_sell_lines_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_03_104918_add_qty_returned_column_to_transaction_sell_lines_purchase_lines_table.php on line 7
+[27-Nov-2020 19:28:29 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_03_185947_add_default_notification_templates_to_database.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_03_185947_add_default_notification_templates_to_database.php on line 9
+[27-Nov-2020 19:28:29 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_09_153105_add_business_id_to_transaction_payments_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_09_153105_add_business_id_to_transaction_payments_table.php on line 8
+[27-Nov-2020 19:28:30 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_16_135229_create_permission_for_sells_and_purchase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_16_135229_create_permission_for_sells_and_purchase.php on line 8
+[27-Nov-2020 19:28:30 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_22_114441_add_columns_for_variable_product_modifications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_22_114441_add_columns_for_variable_product_modifications.php on line 7
+[27-Nov-2020 19:28:30 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_22_134428_modify_variable_product_data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_22_134428_modify_variable_product_data.php on line 9
+[27-Nov-2020 19:28:30 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_30_181558_add_table_tax_headings_to_invoice_layout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_30_181558_add_table_tax_headings_to_invoice_layout.php on line 7
+[27-Nov-2020 19:28:31 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_122619_add_pay_terms_field_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_122619_add_pay_terms_field_transactions_table.php on line 7
+[27-Nov-2020 19:28:31 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_161328_add_new_permissions_for_pos_screen.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_161328_add_new_permissions_for_pos_screen.php on line 8
+[27-Nov-2020 19:28:32 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_174752_add_access_selected_contacts_only_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_174752_add_access_selected_contacts_only_to_users_table.php on line 7
+[27-Nov-2020 19:28:32 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_175627_add_user_contact_access.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_175627_add_user_contact_access.php on line 7
+[27-Nov-2020 19:28:32 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_180559_add_auto_send_sms_column_to_notification_templates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_180559_add_auto_send_sms_column_to_notification_templates_table.php on line 7
+[27-Nov-2020 19:28:32 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_11_02_171949_change_card_type_column_to_varchar_in_transaction_payments_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_11_02_171949_change_card_type_column_to_varchar_in_transaction_payments_table.php on line 8
+[27-Nov-2020 19:28:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_11_08_105621_add_role_permissions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_11_08_105621_add_role_permissions.php on line 8
+[27-Nov-2020 19:28:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_11_26_114135_add_is_suspend_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_11_26_114135_add_is_suspend_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_11_28_104410_modify_units_table_for_multi_unit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_11_28_104410_modify_units_table_for_multi_unit.php on line 7
+[27-Nov-2020 19:28:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_11_28_170952_add_sub_unit_id_to_purchase_lines_and_sell_lines.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_11_28_170952_add_sub_unit_id_to_purchase_lines_and_sell_lines.php on line 7
+[27-Nov-2020 19:28:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_11_29_115918_add_primary_key_in_system_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_11_29_115918_add_primary_key_in_system_table.php on line 7
+[27-Nov-2020 19:28:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_03_185546_add_product_description_column_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_03_185546_add_product_description_column_to_products_table.php on line 7
+[27-Nov-2020 19:28:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_06_114937_modify_system_table_and_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_06_114937_modify_system_table_and_users_table.php on line 8
+[27-Nov-2020 19:28:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_13_160007_add_custom_fields_display_options_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_13_160007_add_custom_fields_display_options_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:35 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_14_103307_modify_system_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_14_103307_modify_system_table.php on line 6
+[27-Nov-2020 19:28:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_18_133837_add_prev_balance_due_columns_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_18_133837_add_prev_balance_due_columns_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_18_170656_add_invoice_token_column_to_transaction_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_18_170656_add_invoice_token_column_to_transaction_table.php on line 7
+[27-Nov-2020 19:28:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_20_133639_add_date_time_format_column_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_20_133639_add_date_time_format_column_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_21_120659_add_recurring_invoice_fields_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_21_120659_add_recurring_invoice_fields_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_24_154933_create_notifications_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_24_154933_create_notifications_table.php on line 7
+[27-Nov-2020 19:28:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_01_08_112015_add_document_column_to_transaction_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_01_08_112015_add_document_column_to_transaction_payments_table.php on line 7
+[27-Nov-2020 19:28:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_01_10_124645_add_account_permission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_01_10_124645_add_account_permission.php on line 8
+[27-Nov-2020 19:28:38 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_01_16_125825_add_subscription_no_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_01_16_125825_add_subscription_no_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:38 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_01_28_111647_add_order_addresses_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_01_28_111647_add_order_addresses_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:38 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_02_13_173821_add_is_inactive_column_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_02_13_173821_add_is_inactive_column_to_products_table.php on line 7
+[27-Nov-2020 19:28:38 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_02_19_103118_create_discounts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_02_19_103118_create_discounts_table.php on line 7
+[27-Nov-2020 19:28:38 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_02_21_120324_add_discount_id_column_to_transaction_sell_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_02_21_120324_add_discount_id_column_to_transaction_sell_lines_table.php on line 7
+[27-Nov-2020 19:28:39 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_02_21_134324_add_permission_for_discount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_02_21_134324_add_permission_for_discount.php on line 8
+[27-Nov-2020 19:28:39 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_03_04_170832_add_service_staff_columns_to_transaction_sell_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_03_04_170832_add_service_staff_columns_to_transaction_sell_lines_table.php on line 7
+[27-Nov-2020 19:28:39 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_03_09_102425_add_sub_type_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_03_09_102425_add_sub_type_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:39 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_03_09_124457_add_indexing_transaction_sell_lines_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_03_09_124457_add_indexing_transaction_sell_lines_purchase_lines_table.php on line 7
+[27-Nov-2020 19:28:40 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_03_12_120336_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_03_12_120336_create_activity_log_table.php on line 7
+[27-Nov-2020 19:28:40 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_03_15_132925_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_03_15_132925_create_media_table.php on line 7
+[27-Nov-2020 19:28:40 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_05_08_130339_add_indexing_to_parent_id_in_transaction_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_05_08_130339_add_indexing_to_parent_id_in_transaction_payments_table.php on line 7
+[27-Nov-2020 19:28:40 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_05_10_132311_add_missing_column_indexing.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_05_10_132311_add_missing_column_indexing.php on line 7
+[27-Nov-2020 19:28:40 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_05_14_091812_add_show_image_column_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_05_14_091812_add_show_image_column_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:41 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_05_25_104922_add_view_purchase_price_permission.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_05_25_104922_add_view_purchase_price_permission.php on line 6
+[27-Nov-2020 19:28:41 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_06_17_103515_add_profile_informations_columns_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_06_17_103515_add_profile_informations_columns_to_users_table.php on line 7
+[27-Nov-2020 19:28:41 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_06_18_135524_add_permission_to_view_own_sales_only.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_06_18_135524_add_permission_to_view_own_sales_only.php on line 6
+[27-Nov-2020 19:28:41 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_06_19_112058_add_database_changes_for_reward_points.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_06_19_112058_add_database_changes_for_reward_points.php on line 7
+[27-Nov-2020 19:28:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_06_28_133732_change_type_column_to_string_in_transactions_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_06_28_133732_change_type_column_to_string_in_transactions_table.php on line 6
+[27-Nov-2020 19:28:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_07_13_111420_add_is_created_from_api_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_07_13_111420_add_is_created_from_api_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_07_15_165136_add_fields_for_combo_product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_07_15_165136_add_fields_for_combo_product.php on line 8
+[27-Nov-2020 19:28:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_07_19_103446_add_mfg_quantity_used_column_to_purchase_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_07_19_103446_add_mfg_quantity_used_column_to_purchase_lines_table.php on line 7
+[27-Nov-2020 19:28:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_07_22_152649_add_not_for_selling_in_product_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_07_22_152649_add_not_for_selling_in_product_table.php on line 7
+[27-Nov-2020 19:28:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_07_29_185351_add_show_reward_point_column_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_07_29_185351_add_show_reward_point_column_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:43 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_08_08_162302_add_sub_units_related_fields.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_08_08_162302_add_sub_units_related_fields.php on line 7
+[27-Nov-2020 19:28:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_08_26_133419_update_price_fields_decimal_point.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_08_26_133419_update_price_fields_decimal_point.php on line 6
+[27-Nov-2020 19:28:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_02_160054_remove_location_permissions_from_roles.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_02_160054_remove_location_permissions_from_roles.php on line 7
+[27-Nov-2020 19:28:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_03_185259_add_permission_for_pos_screen.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_03_185259_add_permission_for_pos_screen.php on line 8
+[27-Nov-2020 19:28:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_04_163141_add_location_id_to_cash_registers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_04_163141_add_location_id_to_cash_registers_table.php on line 7
+[27-Nov-2020 19:28:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_04_184008_create_types_of_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_04_184008_create_types_of_services_table.php on line 7
+[27-Nov-2020 19:28:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_06_131445_add_types_of_service_fields_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_06_131445_add_types_of_service_fields_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_09_134810_add_default_selling_price_group_id_column_to_business_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_09_134810_add_default_selling_price_group_id_column_to_business_locations_table.php on line 7
+[27-Nov-2020 19:28:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_12_105616_create_product_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_12_105616_create_product_locations_table.php on line 7
+[27-Nov-2020 19:28:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_17_122522_add_custom_labels_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_17_122522_add_custom_labels_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:46 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_18_164319_add_shipping_fields_to_transactions_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_18_164319_add_shipping_fields_to_transactions_table.php on line 8
+[27-Nov-2020 19:28:46 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_19_170927_close_all_active_registers.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_19_170927_close_all_active_registers.php on line 6
+[27-Nov-2020 19:28:46 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_09_23_161906_add_media_description_cloumn_to_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_09_23_161906_add_media_description_cloumn_to_media_table.php on line 7
+[27-Nov-2020 19:28:46 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_10_18_155633_create_account_types_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_10_18_155633_create_account_types_table.php on line 8
+[27-Nov-2020 19:28:47 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_10_22_163335_add_common_settings_column_to_business_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_10_22_163335_add_common_settings_column_to_business_table.php on line 7
+[27-Nov-2020 19:28:47 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_10_29_132521_add_update_purchase_status_permission.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_10_29_132521_add_update_purchase_status_permission.php on line 6
+[27-Nov-2020 19:28:47 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_11_09_110522_add_indexing_to_lot_number.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_11_09_110522_add_indexing_to_lot_number.php on line 7
+[27-Nov-2020 19:28:47 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_11_19_170824_add_is_active_column_to_business_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_11_19_170824_add_is_active_column_to_business_locations_table.php on line 7
+[27-Nov-2020 19:28:48 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_11_21_162913_change_quantity_field_types_to_decimal.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_11_21_162913_change_quantity_field_types_to_decimal.php on line 6
+[27-Nov-2020 19:28:48 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_11_25_160340_modify_categories_table_for_polymerphic_relationship.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_11_25_160340_modify_categories_table_for_polymerphic_relationship.php on line 8
+[27-Nov-2020 19:28:48 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_02_105025_create_warranties_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_02_105025_create_warranties_table.php on line 7
+[27-Nov-2020 19:28:48 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_03_180342_add_common_settings_field_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_03_180342_add_common_settings_field_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:49 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_05_183955_add_more_fields_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_05_183955_add_more_fields_to_users_table.php on line 7
+[27-Nov-2020 19:28:49 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_06_174904_add_change_return_label_column_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_06_174904_add_change_return_label_column_to_invoice_layouts_table.php on line 7
+[27-Nov-2020 19:28:49 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_11_121307_add_draft_and_quotation_list_permissions.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_11_121307_add_draft_and_quotation_list_permissions.php on line 6
+[27-Nov-2020 19:28:49 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_12_180126_copy_expense_total_to_total_before_tax.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_12_180126_copy_expense_total_to_total_before_tax.php on line 6
+[27-Nov-2020 19:28:49 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_19_181412_make_alert_quantity_field_nullable_on_products_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_19_181412_make_alert_quantity_field_nullable_on_products_table.php on line 6
+[27-Nov-2020 19:28:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2019_12_25_173413_create_dashboard_configurations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2019_12_25_173413_create_dashboard_configurations_table.php on line 7
+[27-Nov-2020 19:28:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_01_08_133506_create_document_and_notes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_01_08_133506_create_document_and_notes_table.php on line 7
+[27-Nov-2020 19:28:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_01_09_113252_add_cc_bcc_column_to_notification_templates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_01_09_113252_add_cc_bcc_column_to_notification_templates_table.php on line 7
+[27-Nov-2020 19:28:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_01_16_174818_add_round_off_amount_field_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_01_16_174818_add_round_off_amount_field_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_01_28_162345_add_weighing_scale_settings_in_business_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_01_28_162345_add_weighing_scale_settings_in_business_settings_table.php on line 7
+[27-Nov-2020 19:28:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_02_18_172447_add_import_fields_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_02_18_172447_add_import_fields_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_03_13_135844_add_is_active_column_to_selling_price_groups_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_03_13_135844_add_is_active_column_to_selling_price_groups_table.php on line 7
+[27-Nov-2020 19:28:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_03_16_115449_add_contact_status_field_to_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_03_16_115449_add_contact_status_field_to_contacts_table.php on line 7
+[27-Nov-2020 19:28:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_03_26_124736_add_allow_login_column_in_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_03_26_124736_add_allow_login_column_in_users_table.php on line 8
+[27-Nov-2020 19:28:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_04_13_154150_add_feature_products_column_to_business_loactions.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_04_13_154150_add_feature_products_column_to_business_loactions.php on line 7
+[27-Nov-2020 19:28:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_04_15_151802_add_user_type_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_04_15_151802_add_user_type_to_users_table.php on line 7
+[27-Nov-2020 19:28:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_04_22_153905_add_subscription_repeat_on_column_to_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_04_22_153905_add_subscription_repeat_on_column_to_transactions_table.php on line 7
+[27-Nov-2020 19:28:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_04_28_111436_add_shipping_address_to_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_04_28_111436_add_shipping_address_to_contacts_table.php on line 7
+[27-Nov-2020 19:28:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_06_01_094654_add_max_sale_discount_column_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_06_01_094654_add_max_sale_discount_column_to_users_table.php on line 7
+[27-Nov-2020 19:28:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_06_12_162245_modify_contacts_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_06_12_162245_modify_contacts_table.php on line 8
+[27-Nov-2020 19:28:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_06_22_103104_change_recur_interval_default_to_one.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_06_22_103104_change_recur_interval_default_to_one.php on line 8
+[27-Nov-2020 19:28:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_07_09_174621_add_balance_field_to_contacts_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_07_09_174621_add_balance_field_to_contacts_table.php on line 8
+[27-Nov-2020 19:28:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_07_23_104933_change_status_column_to_varchar_in_transaction_table.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_07_23_104933_change_status_column_to_varchar_in_transaction_table.php on line 9
+[27-Nov-2020 19:28:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2020_09_07_171059_change_completed_stock_transfer_status_to_final.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2020_09_07_171059_change_completed_stock_transfer_status_to_final.php on line 8
+[27-Nov-2020 20:05:19 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_071953_create_currencies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_071953_create_currencies_table.php on line 7
+[28-Nov-2020 14:21:13 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[28-Nov-2020 14:21:47 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_174752_add_access_selected_contacts_only_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_174752_add_access_selected_contacts_only_to_users_table.php on line 7
+[28-Nov-2020 14:22:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_175627_add_user_contact_access.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_10_31_175627_add_user_contact_access.php on line 7
+[28-Nov-2020 14:22:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_03_185546_add_product_description_column_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_03_185546_add_product_description_column_to_products_table.php on line 7
+[28-Nov-2020 14:22:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2018_12_03_185546_add_product_description_column_to_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2018_12_03_185546_add_product_description_column_to_products_table.php on line 7
+[28-Nov-2020 14:25:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_071953_create_currencies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/migrations/2017_07_05_071953_create_currencies_table.php on line 7

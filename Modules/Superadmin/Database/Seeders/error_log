@@ -1,0 +1,8 @@
+[27-Nov-2020 19:48:30 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Database/Seeders/SuperadminDatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Database/Seeders/SuperadminDatabaseSeeder.php on line 8
+[24-Jan-2021 02:03:53 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Database/Seeders/SuperadminDatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Database/Seeders/SuperadminDatabaseSeeder.php on line 8

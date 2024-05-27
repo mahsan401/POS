@@ -1,0 +1,52 @@
+[27-Nov-2020 19:48:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/BaseController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/BaseController.php on line 12
+[27-Nov-2020 19:48:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/BusinessController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/BusinessController.php on line 20
+[27-Nov-2020 19:48:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/CommunicatorController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/CommunicatorController.php on line 16
+[27-Nov-2020 19:48:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/DataController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/DataController.php on line 13
+[27-Nov-2020 19:48:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/InstallController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/InstallController.php on line 12
+[27-Nov-2020 19:48:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PackagesController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PackagesController.php on line 16
+[27-Nov-2020 19:48:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PageController.php on line 11
+[27-Nov-2020 19:48:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PesaPalController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PesaPalController.php on line 10
+[27-Nov-2020 19:48:35 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PricingController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/PricingController.php on line 12
+[27-Nov-2020 19:48:35 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SubscriptionController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SubscriptionController.php on line 28
+[27-Nov-2020 19:48:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SuperadminController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SuperadminController.php on line 16
+[27-Nov-2020 19:48:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SuperadminSettingsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SuperadminSettingsController.php on line 11
+[27-Nov-2020 19:48:36 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Modules\Superadmin\Http\Controllers\BaseController' not found in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SuperadminSubscriptionsController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/Modules/Superadmin/Http/Controllers/SuperadminSubscriptionsController.php on line 17

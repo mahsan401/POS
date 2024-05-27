@@ -1,0 +1,96 @@
+[27-Nov-2020 19:26:20 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/activitylog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/activitylog.php on line 8
+[27-Nov-2020 19:26:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/app.php on line 15
+[27-Nov-2020 19:26:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/author.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/author.php on line 22
+[27-Nov-2020 19:26:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/dstadve1/public_html/erp/config/backup.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/backup.php on line 21
+[27-Nov-2020 19:26:21 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/dstadve1/public_html/erp/config/barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/barcode.php on line 4
+[27-Nov-2020 19:26:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/broadcasting.php on line 18
+[27-Nov-2020 19:26:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/cache.php on line 21
+[27-Nov-2020 19:26:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/constants.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/constants.php on line 55
+[27-Nov-2020 19:26:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/database.php on line 18
+[27-Nov-2020 19:26:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/datatables.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/datatables.php on line 72
+[27-Nov-2020 19:26:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/dstadve1/public_html/erp/config/debugbar.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/debugbar.php on line 37
+[27-Nov-2020 19:26:23 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/filesystems.php on line 16
+[27-Nov-2020 19:26:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/hashing.php on line 32
+[27-Nov-2020 19:26:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/dstadve1/public_html/erp/config/log-viewer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/log-viewer.php on line 12
+[27-Nov-2020 19:26:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/logging.php on line 19
+[27-Nov-2020 19:26:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/mail.php on line 19
+[27-Nov-2020 19:26:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/dstadve1/public_html/erp/config/modules.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/modules.php on line 27
+[27-Nov-2020 19:26:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/paypal.php on line 8
+[27-Nov-2020 19:26:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/pesapal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/pesapal.php on line 7
+[27-Nov-2020 19:26:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/queue.php on line 16
+[27-Nov-2020 19:26:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/services.php on line 18
+[27-Nov-2020 19:26:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/session.php on line 21
+[27-Nov-2020 19:26:26 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/dstadve1/public_html/erp/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/view.php on line 17
+[24-Jan-2021 02:05:22 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dstadve1/public_html/erp/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/config/paypal.php on line 8

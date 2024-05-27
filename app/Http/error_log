@@ -1,0 +1,8 @@
+[27-Nov-2020 19:27:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Nwidart\Menus\Presenters\Presenter' not found in /home/dstadve1/public_html/erp/app/Http/AdminlteCustomPresenter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/AdminlteCustomPresenter.php on line 7
+[27-Nov-2020 19:27:34 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/dstadve1/public_html/erp/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Kernel.php on line 7

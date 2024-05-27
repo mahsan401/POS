@@ -1,0 +1,8 @@
+[27-Nov-2020 19:27:40 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Restaurant/Booking.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Restaurant/Booking.php on line 7
+[27-Nov-2020 19:27:41 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dstadve1/public_html/erp/app/Restaurant/ResTable.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Restaurant/ResTable.php on line 8

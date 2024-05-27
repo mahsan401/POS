@@ -1,0 +1,32 @@
+[27-Nov-2020 19:48:54 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/BookingController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/BookingController.php on line 17
+[27-Nov-2020 19:48:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/DataController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/DataController.php on line 14
+[27-Nov-2020 19:48:55 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/KitchenController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/KitchenController.php on line 16
+[27-Nov-2020 19:48:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/ModifierSetsController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/ModifierSetsController.php on line 14
+[27-Nov-2020 19:48:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/OrderController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/OrderController.php on line 16
+[27-Nov-2020 19:48:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/ProductModifierSetController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/ProductModifierSetController.php on line 13
+[27-Nov-2020 19:48:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/RestaurantController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/RestaurantController.php on line 9
+[27-Nov-2020 19:48:57 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/TableController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/app/Http/Controllers/Restaurant/TableController.php on line 13

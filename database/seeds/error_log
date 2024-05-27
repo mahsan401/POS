@@ -1,0 +1,32 @@
+[27-Nov-2020 19:28:59 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php on line 8
+[27-Nov-2020 19:29:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/CurrenciesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/CurrenciesTableSeeder.php on line 7
+[27-Nov-2020 19:29:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/DatabaseSeeder.php on line 5
+[27-Nov-2020 19:29:01 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/PermissionsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/PermissionsTableSeeder.php on line 7
+[27-Nov-2020 20:05:42 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php on line 8
+[27-Nov-2020 20:05:52 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php on line 8
+[27-Nov-2020 20:06:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php on line 8
+[27-Nov-2020 20:06:06 Asia/Singapore] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dstadve1/public_html/erp/database/seeds/BarcodesTableSeeder.php on line 8
